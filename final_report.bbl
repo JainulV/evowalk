@@ -1,0 +1,41 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Andersen et~al.(2016)Andersen, Gharan, Peres, and Trevisan]{Shayan}
+Reid Andersen, Shayan~Oveis Gharan, Yuval Peres, and Luca Trevisan.
+\newblock Almost optimal local graph clustering using evolving sets.
+\newblock \emph{J. ACM}, 63\penalty0 (2):\penalty0 15:1--15:31, May 2016.
+\newblock ISSN 0004-5411.
+\newblock \doi{10.1145/2856030}.
+\newblock URL \url{http://doi.acm.org/10.1145/2856030}.
+
+\bibitem[Mikolov et~al.(2013)Mikolov, Chen, Corrado, and
+  Dean]{mikolov2013efficient}
+Tomas Mikolov, Kai Chen, Greg Corrado, and Jeffrey Dean.
+\newblock Efficient estimation of word representations in vector space, 2013.
+
+\bibitem[Montenegro()]{ESP}
+Ravi Montenegro.
+\newblock Evolving sets and distances.
+\newblock URL
+  \url{http://faculty.uml.edu/rmontenegro/8843/notes/lecture16.pdf}.
+
+\bibitem[Perozzi et~al.(2014)Perozzi, Al-Rfou, and Skiena]{Perozzi_2014}
+Bryan Perozzi, Rami Al-Rfou, and Steven Skiena.
+\newblock Deepwalk.
+\newblock \emph{Proceedings of the 20th ACM SIGKDD international conference on
+  Knowledge discovery and data mining - KDD ’14}, 2014.
+\newblock \doi{10.1145/2623330.2623732}.
+\newblock URL \url{http://dx.doi.org/10.1145/2623330.2623732}.
+
+\bibitem[Zachary(1976)]{Zachary}
+Wayne Zachary.
+\newblock An information flow model for conflict and fission in small groups1.
+\newblock \emph{Journal of anthropological research}, 33, 11 1976.
+\newblock \doi{10.1086/jar.33.4.3629752}.
+
+\end{thebibliography}
